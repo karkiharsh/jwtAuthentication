@@ -10,4 +10,8 @@ no. 1 -> [The Fundamental Theorem of Arithmetic - Khan Academy](https://www.khan
  - 5 -> done
  - 6 -> done
  - 7 -> done
+ - 8 -> done
+ - 9 -> done 
+ - 10 -> done
+ - 11 -> done 
 no. 2 -> Token based Authentication
